@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Data+Analyst+%7C+Python+%2B+SQL+%2B+Power+BI;%F0%9F%92%BB+Full+Stack+Dev+%7C+MERN+%2B+Flask+%2B+Django;%F0%9F%8F%86+Hackfest+%2724+Winner+%7C+PyExpo+3rd+Place;%F0%9F%8C%9F+Oracle+Cloud+AI+Certified+%7C+Google+Ambassador" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Software+Developer+%7C+Frappe+%2B+ERPNext+%2B+Python;%F0%9F%92%BB+Full+Stack+Dev+%7C+MERN+%2B+Flask+%2B+Django;%F0%9F%8F%86+Hackfest+%2724+Winner+%7C+PyExpo+3rd+Place;%F0%9F%8C%9F+Oracle+Cloud+AI+Certified+%7C+Google+Ambassador" alt="Typing SVG"/>
   </a>
 </div>
 
